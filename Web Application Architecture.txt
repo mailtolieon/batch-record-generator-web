@@ -1,0 +1,15 @@
+BatchRecordGenerator_Web/
+├── 🐍 app.py                          # Main Streamlit app
+├── ⚙️ config.py                       # Configuration management
+├── 🔧 document_generator.py           # Core logic (adapted)
+├── 📋 requirements.txt               # Web dependencies
+├── 🐳 Dockerfile                     # Container deployment
+├── 🔧 setup.sh                       # Deployment script
+├── 📁 static/                        # Static files
+│   └── 🎨 style.css                  # Custom styling
+├── 📁 templates/                     # HTML templates
+│   └── 📄 base.html                  # Base template
+├── 📁 data/                          # Data files
+│   ├️ 📊 Batch_Local_2025_09_07.xlsx
+│   └️ 📄 Batch Record Register_template.docx
+└️ 📁 generated/                      # Generated documents
