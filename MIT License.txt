@@ -1,0 +1,6 @@
+
+### **Step 6: Initialize Git Repository**
+
+1. **Open terminal/Git Bash** in your project folder:
+```bash
+cd path/to/BatchRecordGenerator_Web
